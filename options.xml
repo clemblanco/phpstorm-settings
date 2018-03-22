@@ -1,0 +1,75 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="15" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Sites/c2c&#10;/Users/clement/Sites/c2c/vendor&#10;/Users/clement/Downloads&#10;/Users/clement/Sites/ximbio/puphpet/files/dot/ssh/id_rsa&#10;/Users/clement/Sites/kftv&#10;/Users/clement/Sites/tko&#10;/Users/clement/Sites/digiredoo&#10;/Users/clement/Sites/eurofighter&#10;/Users/clement/Sites/optima-usb&#10;/Users/clement/Sites/ximbio&#10;/Users/clement/.ssh/cyberduck_rsa&#10;/Users/clement/Sites/white-kangaroo&#10;/Users/clement/Desktop/foobar.tsv&#10;/Users/clement/Desktop/foobar.csv&#10;/Users/clement/Sandbox/cyberduck-server&#10;/Users/clement/Downloads/PHPStorm_settings.jar" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="68" />
+    <property name="PLUGIN_FILTER" value="setting&#10;remote c&#10;remote&#10;Remote Call&#10;word" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="mt.oceanic" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="fileTypeChangedCounter" value="38" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="KEYMAP" value="find&#10;jump&#10;next&#10;highlight&#10;clone" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="evlsprt3.163" value="11" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="selected.color.option.type" value="BROWSEWORDATCARET" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.5675266" />
+    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="evlsprt3.171" value="13" />
+    <property name="file.gist.reindex.count" value="49219" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="Darcula.savedEditorTheme" value="Material Theme - Default Custom" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ColorChooser.RecentColors" value="15-40-73-255,,,20-55-73-255,,,130-130-130-255,,,122-122-122-255,,,237-183-42-255,,,51-64-70-255,,,255-255-255-255,,,172-172-172-255,,,64-77-83-255" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="evlsprt3.172" value="19" />
+    <property name="ts.lib.d.ts.version" value="2.6.2" />
+    <property name="idea.background.frame" value="" />
+    <property name="evlsprt3.173" value="10" />
+    <property name="SearchEveryWhereHistory" value="dd($&#10;in_&#10;Magento\Catalog\Model\Category&#10;getForceConfirmed(&#10;setPassword" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="13" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="LAST_INJECTED_LANGUAGE" value="RegExp" />
+  </component>
+</application>

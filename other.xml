@@ -1,0 +1,14 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="4.6.0" last-modified="1475020163000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="MOVE_CLASS_SEARCH_IN_TEXT_OCCURRENCES" value="true" />
+  </component>
+</application>
