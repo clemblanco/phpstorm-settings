@@ -1,6 +1,10 @@
 <application>
-  <component name="PhpAutoImport" auto_import_from_global_scope="true" auto_import_file_scope="true" />
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" />
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration tool_path="dev/tests/static/testsuite/Magento/Test/Php/_files/phpcs/" />
       <phpcs_by_interpreter interpreter_id="7b420809-bbfb-45a8-b2f3-ce4771f68be4" tool_path="dev/tests/static/framework/Magento/ruleset.xml" />
