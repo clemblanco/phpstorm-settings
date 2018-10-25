@@ -1,8 +1,12 @@
 <scheme name="Material Theme - Default Custom" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.8" />
+  <metaInfo>
+    <property name="modified">2018-10-25T18:37:40</property>
+    <property name="rainbow PHP">false</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="2.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Menlo for Powerline" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
@@ -46,7 +50,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="143749" />
+    <option name="SELECTION_BACKGROUND" value="1e5068" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
@@ -119,7 +123,7 @@
     </option>
     <option name="BROWSEWORDATCARET">
       <value>
-        <option name="BACKGROUND" value="143749" />
+        <option name="BACKGROUND" value="1e5068" />
         <option name="ERROR_STRIPE_COLOR" value="526da5" />
       </value>
     </option>
