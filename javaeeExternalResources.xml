@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.xmlsoap.org/soap/envelope" location="$USER_HOME$/Library/Caches/PhpStorm2018.1/extResources/91c8bf4f_envelope.xml" />
+    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/Library/Caches/PhpStorm2018.1/extResources/631eabe6_XMLSchema-instance.xml" />
+  </component>
+</application>
