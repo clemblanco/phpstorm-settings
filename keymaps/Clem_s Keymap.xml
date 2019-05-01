@@ -1,4 +1,4 @@
-<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+<keymap version="1" name="Clem's Keymap" parent="Mac OS X">
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -31,17 +31,9 @@
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorTextEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta end" />
-    <keyboard-shortcut first-keystroke="shift meta down" />
-  </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
-  </action>
-  <action id="EditorTextStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta home" />
-    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="Exit" />
   <action id="FileChooser.TogglePathShowing" />
@@ -61,12 +53,8 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="ctrl meta down" />
-  </action>
-  <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="ctrl meta up" />
-  </action>
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
